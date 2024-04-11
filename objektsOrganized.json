@@ -15726,12 +15726,16 @@
         "305Z": {
             "SeoYeon": {
                 "key": "SeoYeon-C305Z",
+                "bgColor": "#E62473",
+                "textColor": "#F4E1E4",
                 "front": "495a78ba-b7e6-489c-1a1f-1a03d98f4100",
                 "back": "dd67c58f-2cc6-4046-b51a-ced8e5c3d100",
                 "token": "1891978"
             },
             "HyeRin": {
                 "key": "HyeRin-C305Z",
+                "bgColor": "#E62473",
+                "textColor": "#F4E1E4",
                 "front": "5b758fcb-7832-4af1-f04b-8b71d6769600",
                 "back": "50b4a516-0b91-4b35-841c-59b7d8211a00",
                 "token": "1892016"
@@ -15778,18 +15782,24 @@
             },
             "YuBin": {
                 "key": "YuBin-C305Z",
+                "bgColor": "#E62473",
+                "textColor": "#F4E1E4",
                 "front": "beda66dd-e631-4d07-8081-05756ca11900",
                 "back": "78286b07-a492-4b9e-528a-9e190ee92100",
                 "token": "1891973"
             },
             "Kaede": {
                 "key": "Kaede-C305Z",
+                "bgColor": "#E62473",
+                "textColor": "#F4E1E4",
                 "front": "29c516da-d0cc-4c80-bd39-5d30ee95ba00",
                 "back": "0426c445-0ca1-460c-4f9f-7ce42baa6b00",
                 "token": "1891971"
             },
             "DaHyun": {
                 "key": "DaHyun-C305Z",
+                "bgColor": "#E62473",
+                "textColor": "#F4E1E4",
                 "front": "1dcf376a-76f6-4414-c27f-c8e65ae5d400",
                 "back": "6cfab5a2-6639-4c1d-ae21-2967b037f100",
                 "token": "1891975"
@@ -15812,18 +15822,24 @@
             },
             "Nien": {
                 "key": "Nien-C305Z",
+                "bgColor": "#E62473",
+                "textColor": "#F4E1E4",
                 "front": "6901c411-4c8e-4f1a-39b1-3f9568450900",
                 "back": "75819849-277b-497c-0ec5-abc9c5f6cd00",
                 "token": "1891976"
             },
             "SoHyun": {
                 "key": "SoHyun-C305Z",
+                "bgColor": "#E62473",
+                "textColor": "#F4E1E4",
                 "front": "f39316be-d9ca-4f8e-259a-3ecee073a300",
                 "back": "382243ed-5c26-44f3-9a4a-e2f3df121b00",
                 "token": "1891974"
             },
             "Xinyu": {
                 "key": "Xinyu-C305Z",
+                "bgColor": "#E62473",
+                "textColor": "#F4E1E4",
                 "front": "0c595493-b54f-407d-0cb8-3ad6073d3b00",
                 "back": "8ee6a459-5900-45d1-e83e-4c00ebf30400",
                 "token": "1891972"
