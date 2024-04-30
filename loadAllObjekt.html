@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="./index.css">
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="article"></div>
+        </div>
+        <script>
+            async function load() {
+                var data = await fetch('https://4af941083d2c18a3.github.io/myObjekt/objektsOrganized.json')
+                var json = await data.json()
+                var ep = "https://imagedelivery.net/qQuMkbHJ-0s6rwu8vup_5w/"
+
+                Object.values(json).forEach(i=>{
+                    Object.values(i).forEach(j=>{
+                        var bg = ''
+                        var txt = ''
+                        var met = ''
+                        var redefine1 = true
+                        var redefine2 = true
+
+                        if (j.bgColor) {
+                            bg = j.bgColor
+                            txt = j.textColor
+                            redefine1 = false
+                        }
+                        if (j.method) {
+                            met = j.method
+                            redefine2 = false
+                        }
+                        // if (j.textColor) {txt = j.textColor}
+                        delete j.bgColor
+                        delete j.textColor
+                        delete j.method
+                        Object.values(j).forEach(k=>{
+                            // console.log(k)
+                            if (redefine1) {
+                                bg = k.bgColor
+                                txt = k.textColor
+                                // redefine = true
+                            }
+                            if (redefine2) {
+                                met = k.method
+                            }
+                            // if (!txt) {txt = k.textColor}
+                            // console.log(k)
+                            if (k.key.split('-')[1][1] == '2') {bg = 'linear-gradient(to right, #DBD2E5, #C1CFE8, #EFD4CB, #EFDFC7, #EDD5E5, #EBCBE2, #E9CDE4, #DED1E3)'}
+
+                            $('#article').append(
+                                `<div class="element" style="background: ${bg}">
+                                    <div class="objekt">
+                                        <span class="collectionAndSerial" style="color: ${txt}">
+                                            <span class="collection">${k.key.split('-')[1].slice(1)}</span>
+                                        </span>
+                                        <img src="${ep + k.front + '/thumbnail'}">
+                                    </div>
+                                    <div class="comment" style="color: ${txt}; font-family: 'collection';">
+                                        <p class="info">${k.key.split('-').join(' ')}</p>
+                                        <p>${met}</p>
+                                    </div>
+                                </div>`
+                            )
+
+                            if (!bg || !txt) {
+                                console.log(k.key)
+                            }
+                        })
+                    })
+                })
+            }
+            load()
+        </script>
+    </body>
+</html>
