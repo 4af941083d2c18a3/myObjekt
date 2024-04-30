@@ -10318,7 +10318,7 @@
         "307Z": {
             "bgColor": "#2F6A9A",
             "textColor": "#FFFFFF",
-            "method": "Objekt Trading Trading Cafe in Seoul에서 구매",
+            "method": "Objekt Trading Cafe in Seoul에서 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B307Z",
                 "front": "e726d204-27e7-466d-83d3-4fd666266400",
@@ -11264,6 +11264,7 @@
         "321Z": {
             "bgColor": "#7229FF",
             "textColor": "#FFFFFF",
+            "method": "ASSEMBLE 앨범 FLNK 럭키드로우 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B321Z",
                 "front": "bfb4567e-2bef-459f-d0b6-0855d1620600",
@@ -11328,6 +11329,7 @@
         "322Z": {
             "bgColor": "#F4B94E",
             "textColor": "#2BA8A2",
+            "method": "AESTHETIC 앨범 예약판매(Dear My Muse) 특전",
             "SeoYeon": {
                 "key": "SeoYeon-B322Z",
                 "front": "e5fa8fb3-4966-4c22-7b1a-28e8f1a7b000",
@@ -11356,6 +11358,7 @@
         "323Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "AESTHETIC 앨범 예약판매(MyMusicTaste) 특전",
             "SeoYeon": {
                 "key": "SeoYeon-B323Z",
                 "front": "f8176136-c1d0-44be-34c2-ef7ce7d9ff00",
@@ -11384,6 +11387,7 @@
         "324Z": {
             "bgColor": "#000000",
             "textColor": "#FFFFFF",
+            "method": "AESTHETIC 앨범 예약판매(SOUNDWAVE) 특전",
             "SeoYeon": {
                 "key": "SeoYeon-B324Z",
                 "front": "8cce397c-79c0-49fa-d93f-c090da554100",
@@ -11410,6 +11414,7 @@
             }
         },
         "325Z": {
+            "method": "입주 1주년 기념일에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B325Z",
                 "bgColor": "#22AEFF",
@@ -11476,6 +11481,7 @@
             }
         },
         "326Z": {
+            "method": "입주 1주년 기념일에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B326Z",
                 "bgColor": "#22AEFF",
@@ -11544,6 +11550,7 @@
         "328Z": {
             "bgColor": "#F6ADCD",
             "textColor": "#DC4628",
+            "method": "ALL MY THINGS 팬사인회 응모 보상",
             "YuBin": {
                 "key": "YuBin-B328Z",
                 "front": "ea7ab4e1-e675-4c88-2579-494873ff5b00",
@@ -11554,6 +11561,7 @@
         "329Z": {
             "bgColor": "#F6ADCD",
             "textColor": "#DC4628",
+            "method": "ALL MY THINGS 팬사인회 응모 보상",
             "YuBin": {
                 "key": "YuBin-B329Z",
                 "front": "128fc330-aa35-4d2e-7e51-8d9b17c32700",
@@ -11564,6 +11572,7 @@
         "330Z": {
             "bgColor": "#F6ADCD",
             "textColor": "#DC4628",
+            "method": "ALL MY THINGS 팬사인회 응모 보상",
             "YuBin": {
                 "key": "YuBin-B330Z",
                 "front": "0349a6d7-5490-4f88-5812-f1d396085e00",
@@ -11574,6 +11583,7 @@
         "331Z": {
             "bgColor": "#F6ADCD",
             "textColor": "#DC4628",
+            "method": "ALL MY THINGS 팬사인회 응모 보상",
             "YuBin": {
                 "key": "YuBin-B331Z",
                 "front": "c04fc6e3-9e68-4127-48cd-1ef5f8140800",
@@ -11584,6 +11594,7 @@
         "332Z": {
             "bgColor": "#3D71B8",
             "textColor": "#FFFFFF",
+            "method": "Objekt Trading Cafe X Ktown4u에서 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B332Z",
                 "front": "f497ea64-11e7-472f-32a6-424659beef00",
@@ -11660,6 +11671,7 @@
         "333Z": {
             "bgColor": "#3D71B8",
             "textColor": "#FFFFFF",
+            "method": "Objekt Trading Cafe X Ktown4u에서 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B333Z",
                 "front": "122ec617-20bc-4117-b089-80fec0116500",
@@ -11736,6 +11748,7 @@
         "334Z": {
             "bgColor": "#8A8C8E",
             "textColor": "#FFFFFF",
+            "method": "ARTMS의 Cosmo 입점 기념 이벤트 참여 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B334Z",
                 "front": "dbfe2c13-2e76-4749-7493-70a698990100",
@@ -11746,6 +11759,7 @@
         "335Z": {
             "bgColor": "#F15D22",
             "textColor": "#FFFFFF",
+            "method": "URBAN BREAK 2023 모드하우스 부스 참여 보상",
             "ChaeYeon": {
                 "key": "ChaeYeon-B335Z",
                 "front": "fa2aaad6-2634-4483-5b83-c31d05944a00",
@@ -11756,6 +11770,7 @@
         "336Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "AESTHETIC 앨범 대면 팬사인회(MyMusicTaste 230609) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B336Z",
                 "front": "7e20a934-3dd0-493b-ee0d-e661e9806300",
@@ -11784,6 +11799,7 @@
         "337Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "AESTHETIC 앨범 영상통화 이벤트(MyMusicTaste 230609) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B337Z",
                 "front": "96d474e4-d722-49be-d7b1-158b45bbaa00",
@@ -11812,6 +11828,7 @@
         "338Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "AESTHETIC 앨범 대면 팬사인회(MyMusicTaste 230618) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B338Z",
                 "front": "7e6427ba-b931-46c8-9a04-255bbff6ec00",
@@ -11840,6 +11857,7 @@
         "339Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "AESTHETIC 앨범 영상통화 이벤트 (MyMusicTaste 230618) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B339Z",
                 "front": "abb6f5b9-1359-4a16-59b6-c9868677c300",
@@ -11868,6 +11886,7 @@
         "340Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "Touch+ 앨범 대면 팬사인회(MyMusicTaste 230709) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B340Z",
                 "front": "5c73bca6-a1ca-4561-f41e-71bb836b4900",
@@ -11902,6 +11921,7 @@
         "341Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "Touch+ 앨범 영상통화 이벤트(MyMusicTaste 230709) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B341Z",
                 "front": "c3a77d57-b4ed-4ffa-8b3c-e40e00abe300",
@@ -11936,6 +11956,7 @@
         "342Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "Cherry Gene 앨범 대면 팬사인회/영상통화 이벤트(MyMusicTaste 230723) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B342Z",
                 "front": "bf83c658-1c02-4fb1-3859-84a62107ae00",
@@ -11988,6 +12009,7 @@
         "343Z": {
             "bgColor": "#3D71B8",
             "textColor": "#FFFFFF",
+            "method": "Cherry Gene 앨범 대면 팬사인회/영상통화 이벤트(Ktown4u 230728) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B343Z",
                 "front": "ad9f21c9-c00e-478a-9382-9e010411e900",
@@ -12040,6 +12062,7 @@
         "344Z": {
             "bgColor": "#F4B94E",
             "textColor": "#24A7A5",
+            "method": "Cherry Gene 앨범 대면 팬사인회/영상통화 이벤트(Dear My Muse 230730) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B344Z",
                 "front": "ab4778db-2891-4cfc-4d9e-bc95b6f6cf00",
@@ -12092,6 +12115,7 @@
         "345Z": {
             "bgColor": "#DF2E37",
             "textColor": "#FFFFFF",
+            "method": "Cherry Gene 앨범 대면 팬사인회/영상통화 이벤트(Everline 230804) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B345Z",
                 "front": "2678b0bf-9c64-43d5-385b-8f32c6cd1400",
@@ -12144,6 +12168,7 @@
         "346Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "Cherry Gene 앨범 대면 팬사인회/영상통화 이벤트(MyMusicTaste 230805) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B346Z",
                 "front": "3cfcaa2c-cb11-4535-ae2b-b2adafe9be00",
@@ -12196,6 +12221,7 @@
         "347Z": {
             "bgColor": "#F4B94E",
             "textColor": "#24A7A5",
+            "method": "Cherry Gene 앨범 대면 팬사인회/영상통화 이벤트(Dear My Muse 230813) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B347Z",
                 "front": "307ff86b-009f-4420-6c37-908a15cbe900",
@@ -12248,6 +12274,7 @@
         "348Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "ↀ 앨범 쇼케이스(MyMusicTaste) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B348Z",
                 "front": "9b6b8589-1642-48c8-1415-11fc17058700",
@@ -12300,6 +12327,7 @@
         "349Z": {
             "bgColor": "#F4B94E",
             "textColor": "#24A7A5",
+            "method": "ↀ 앨범 쇼케이스(Dear My Muse) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B349Z",
                 "front": "c16d2535-ecb5-450a-5889-7923cc131f00",
@@ -12352,6 +12380,7 @@
         "350Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "ↀ 앨범 대면 팬사인회/영상통화 이벤트(MyMusicTaste 230825) 응모 보상",
             "SeoYeon": {
                 "key": "SeoYeon-B350Z",
                 "front": "6622865f-80a2-45f1-bfa1-bf849d39c400",
@@ -12404,6 +12433,7 @@
         "351Z": {
             "bgColor": "#0C89FF",
             "textColor": "#000000",
+            "method": "[Authentic] LOVElution in US 콘서트 참석 보상 또는 사인 CD 패키지 구성품",
             "SeoYeon": {
                 "key": "SeoYeon-B351Z",
                 "front": "39d4676f-5ac8-4f97-4c86-317b0ad38a00",
@@ -12456,6 +12486,7 @@
         "352A": {
             "bgColor": "#0C89FF",
             "textColor": "#000000",
+            "method": "[Authentic] LOVElution in US 콘서트 Meet & Greet 패키지 구성품",
             "SeoYeon": {
                 "key": "SeoYeon-B352A",
                 "front": "7b8e91de-f88f-4ac8-7a6a-f8c1dd60fb00",
@@ -12508,6 +12539,7 @@
         "353Z": {
             "bgColor": "#3D71B8",
             "textColor": "#FFFFFF",
+            "method": "Objekt Gaming Club X Ktown4u에서 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B353Z",
                 "front": "97d3fe7a-f390-4dc8-a459-78a36b048900",
@@ -12560,6 +12592,7 @@
         "354Z": {
             "bgColor": "#3D71B8",
             "textColor": "#FFFFFF",
+            "method": "Objekt Gaming Club X Ktown4u에서 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B354Z",
                 "front": "489e384c-56a9-4fbb-4070-d0e6ee8d1d00",
@@ -12612,6 +12645,7 @@
         "355Z": {
             "bgColor": "#F3486D",
             "textColor": "#000000",
+            "method": "2022 항저우 아시안 게임 기간에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B355Z",
                 "front": "017ab8e3-c318-4a95-03e3-25f404629c00",
@@ -12712,6 +12746,7 @@
         "356Z": {
             "bgColor": "#F3486D",
             "textColor": "#000000",
+            "method": "2022 항저우 아시안 게임 기간에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B356Z",
                 "front": "7b645123-e7ab-45ad-57c7-89c172d91900",
@@ -12812,6 +12847,7 @@
         "357Z": {
             "bgColor": "#F3486D",
             "textColor": "#000000",
+            "method": "2022 항저우 아시안 게임 기간에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-B357Z",
                 "front": "c2fefbd7-3705-4807-6c7d-6b2f6adbcc00",
@@ -12912,6 +12948,7 @@
         "358Z": {
             "bgColor": "#3D71B8",
             "textColor": "#FFFFFF",
+            "method": "신위 B353Z가 B205Z와 동일 초상으로 제작된 것에 대한 보상",
             "Xinyu": {
                 "key": "Xinyu-B358Z",
                 "front": "b18bafb0-041c-4899-0c7f-ab6ff54d9100",
@@ -15528,6 +15565,7 @@
         "201Z": {
             "bgColor": "#F7F7F7",
             "textColor": "#000000",
+            "method": "Cream01 FCO 1st edition 8장 수집",
             "SeoYeon": {
                 "key": "SeoYeon-C201Z",
                 "front": "38da5481-aeb6-4a9e-ec04-cb5e7283da00",
@@ -15652,6 +15690,7 @@
         "202Z": {
             "bgColor": "#F7F7F7",
             "textColor": "#000000",
+            "method": "Cream01 FCO 1st edition 8장 수집",
             "SeoYeon": {
                 "key": "SeoYeon-C202Z",
                 "front": "e5e91464-41e8-4668-daca-642d38007800",
@@ -15776,6 +15815,7 @@
         "203Z": {
             "bgColor": "#F7F7F7",
             "textColor": "#000000",
+            "method": "Cream01 FCO 2nd edition 8장 수집",
             "SeoYeon": {
                 "key": "SeoYeon-C203Z",
                 "front": "c74e5502-6819-4c19-e640-e6875da81e00",
@@ -15900,6 +15940,7 @@
         "204Z": {
             "bgColor": "#F7F7F7",
             "textColor": "#000000",
+            "method": "Cream01 FCO 2nd edition 8장 수집",
             "SeoYeon": {
                 "key": "SeoYeon-C204Z",
                 "front": "dd373062-b2d8-4af3-1616-f6c85dd79600",
@@ -16021,9 +16062,260 @@
                 "token": "2664817"
             }
         },
+        "205Z": {
+            "bgColor": "#F7F7F7",
+            "textColor": "#000000",
+            "method": "Cream01 FCO 3rd edition 4장 수집",
+            "SeoYeon": {
+                "key": "SeoYeon-C205Z",
+                "front": "147c73bc-216e-4f38-5c58-66bd223c7b00",
+                "back": "7f5dbe86-032e-41ba-e037-f4a3608a2000",
+                "token": "2910664"
+            },
+            "HyeRin": {
+                "key": "HyeRin-C205Z",
+                "front": "cddc9b84-96e4-4301-15be-29657ca8bf00",
+                "back": "9ce1f5bc-4038-44c6-0a69-1b5e1cac3000",
+                "token": "2914515"
+            },
+            "JiWoo": {
+                "key": "JiWoo-C205Z",
+                "front": "a62488c7-9f79-4479-af14-95a675917a00",
+                "back": "905099df-087a-423f-2428-015e0765de00",
+                "token": "2916958"
+            },
+            "ChaeYeon": {
+                "key": "ChaeYeon-C205Z",
+                "front": "282f938f-2c67-4266-d9be-8050322c7100",
+                "back": "d688dd04-8e65-46f1-d261-db664d8fd100",
+                "token": "2918961"
+            },
+            "YooYeon": {
+                "key": "YooYeon-C205Z",
+                "front": "52ba7956-5846-4762-ba7b-c151383fa900",
+                "back": "145920b1-1b1a-4355-061b-11fa71f20b00",
+                "token": "2926364"
+            },
+            "SooMin": {
+                "key": "SooMin-C205Z",
+                "front": "7cdd8418-7688-40d6-c517-a9bcd66dd900",
+                "back": "df186ec7-b8d1-439b-bc44-a59c5a6fca00",
+                "token": "2930414"
+            },
+            "NaKyoung": {
+                "key": "NaKyoung-C205Z",
+                "front": "015fa527-486a-4b1a-2e91-7f6b377e3300",
+                "back": "f8131db6-0c8a-49d5-ebf0-dbddea650100",
+                "token": "2932691"
+            },
+            "YuBin": {
+                "key": "YuBin-C205Z",
+                "front": "880f5cfa-92a6-4818-e46a-37b54707f100",
+                "back": "3c115dad-3784-4498-1de3-b1a65d026e00",
+                "token": "2936041"
+            },
+            "Kaede": {
+                "key": "Kaede-C205Z",
+                "front": "a9473db7-a070-4539-d91c-74453aa5d100",
+                "back": "e340985f-126d-4d2a-6aff-510a8f70bb00",
+                "token": "2945355"
+            },
+            "DaHyun": {
+                "key": "DaHyun-C205Z",
+                "front": "aa4b85eb-f57e-4989-69f5-9ce8b623b600",
+                "back": "7fcf8e6a-54d4-476d-b52e-f86afafd1200",
+                "token": "2947446"
+            },
+            "Kotone": {
+                "key": "Kotone-C205Z",
+                "front": "02f4348f-01e4-4b2d-7651-274b7a8e4900",
+                "back": "c90b3d10-0d88-49b6-132b-636628f20200",
+                "token": "2949981"
+            },
+            "YeonJi": {
+                "key": "YeonJi-C205Z",
+                "front": "f895a6b1-819d-4cbc-c1f6-c64b447d6600",
+                "back": "5c00a38d-dc7a-447c-6114-62914d341a00",
+                "token": "2952752"
+            },
+            "Nien": {
+                "key": "Nien-C205Z",
+                "front": "d2fdaee5-4ffc-47bd-39de-75849d358100",
+                "back": "01200d30-d47f-4f5b-2cb4-9cb9e6b74600",
+                "token": "2965650"
+            },
+            "SoHyun": {
+                "key": "SoHyun-C205Z",
+                "front": "cd8d5fd3-5d63-423d-b928-4b0111e53f00",
+                "back": "18f6c250-e448-48d1-7fdd-53e980744d00",
+                "token": "2967868"
+            },
+            "Xinyu": {
+                "key": "Xinyu-C205Z",
+                "front": "1d4b73c9-7401-47d9-6b72-ea457729f000",
+                "back": "d97828c7-a5d3-425a-e968-6c4982a01c00",
+                "token": "2971293"
+            },
+            "Mayu": {
+                "key": "Mayu-C205Z",
+                "front": "640a4506-c9bd-4ab2-638d-de2a9ab3c200",
+                "back": "2071e8d2-c5f4-4caf-1fdd-f0af060eb400",
+                "token": "2975233"
+            },
+            "Lynn": {
+                "key": "Lynn-C205Z",
+                "front": "160c8415-598f-4ab1-e748-3d1575cb0800",
+                "back": "9e0f60f2-0db8-42ca-8b4f-344540fbc800",
+                "token": "2982995"
+            },
+            "JooBin": {
+                "key": "JooBin-C205Z",
+                "front": "c26a91de-94a1-42f8-a93e-c1b3783e4d00",
+                "back": "6baab164-c90f-43c4-ce6b-47d53f237500",
+                "token": "2985015"
+            },
+            "HaYeon": {
+                "key": "HaYeon-C205Z",
+                "front": "118e0490-79fa-40ac-d2cc-0cdc84964400",
+                "back": "7393c213-faf7-468d-9877-65653d8ef600",
+                "token": "2986723"
+            },
+            "ShiOn": {
+                "key": "ShiOn-C205Z",
+                "front": "3ad52038-a20c-4eba-1e56-aea7c7bf5800",
+                "back": "a27c8cc6-9eda-49e2-abeb-20b05e46a200",
+                "token": "2988958"
+            }
+        },
+        "206Z": {
+            "bgColor": "#F7F7F7",
+            "textColor": "#000000",
+            "method": "Cream01 FCO 3rd edition 4장 수집",
+            "SeoYeon": {
+                "key": "SeoYeon-C206Z",
+                "front": "f9e78f0e-3445-4219-fb68-6b9b7d5c4100",
+                "back": "7f5dbe86-032e-41ba-e037-f4a3608a2000",
+                "token": "2911249"
+            },
+            "HyeRin": {
+                "key": "HyeRin-C206Z",
+                "front": "ce1535e4-d007-42f1-3129-372139343e00",
+                "back": "9ce1f5bc-4038-44c6-0a69-1b5e1cac3000",
+                "token": "2914481"
+            },
+            "JiWoo": {
+                "key": "JiWoo-C206Z",
+                "front": "32b7e105-e0c2-4062-a2a7-a6f1ff6b5a00",
+                "back": "905099df-087a-423f-2428-015e0765de00",
+                "token": "2916767"
+            },
+            "ChaeYeon": {
+                "key": "ChaeYeon-C206Z",
+                "front": "6ebe04a0-5c11-4e8d-ff8d-0a7349494b00",
+                "back": "d688dd04-8e65-46f1-d261-db664d8fd100",
+                "token": "2919107"
+            },
+            "YooYeon": {
+                "key": "YooYeon-C206Z",
+                "front": "4fdfd868-6595-4985-5449-6c5bbd71b100",
+                "back": "145920b1-1b1a-4355-061b-11fa71f20b00",
+                "token": "2926175"
+            },
+            "SooMin": {
+                "key": "SooMin-C206Z",
+                "front": "035a8160-4d68-40bf-4cbb-37a95002bf00",
+                "back": "df186ec7-b8d1-439b-bc44-a59c5a6fca00",
+                "token": "2930575"
+            },
+            "NaKyoung": {
+                "key": "NaKyoung-C206Z",
+                "front": "ea8a6a4f-3486-43fd-9e6f-c65d811bdd00",
+                "back": "f8131db6-0c8a-49d5-ebf0-dbddea650100",
+                "token": "2932717"
+            },
+            "YuBin": {
+                "key": "YuBin-C206Z",
+                "front": "f0e9c002-8af5-4169-76e5-0931658ac900",
+                "back": "3c115dad-3784-4498-1de3-b1a65d026e00",
+                "token": "2936251"
+            },
+            "Kaede": {
+                "key": "Kaede-C206Z",
+                "front": "6254e460-fb68-4abe-d112-cb81f134b400",
+                "back": "e340985f-126d-4d2a-6aff-510a8f70bb00",
+                "token": "2945341"
+            },
+            "DaHyun": {
+                "key": "DaHyun-C206Z",
+                "front": "21692bd5-c2df-44d5-8653-1d64673cba00",
+                "back": "7fcf8e6a-54d4-476d-b52e-f86afafd1200",
+                "token": "2947840"
+            },
+            "Kotone": {
+                "key": "Kotone-C206Z",
+                "front": "b243903b-951f-4340-9d1c-326a546a6b00",
+                "back": "c90b3d10-0d88-49b6-132b-636628f20200",
+                "token": "2950017"
+            },
+            "YeonJi": {
+                "key": "YeonJi-C206Z",
+                "front": "76202f97-67ee-49fa-918d-a78041224100",
+                "back": "5c00a38d-dc7a-447c-6114-62914d341a00",
+                "token": "2952770"
+            },
+            "Nien": {
+                "key": "Nien-C206Z",
+                "front": "47ce88da-5074-4880-5d52-d16f30632500",
+                "back": "01200d30-d47f-4f5b-2cb4-9cb9e6b74600",
+                "token": "2965810"
+            },
+            "SoHyun": {
+                "key": "SoHyun-C206Z",
+                "front": "1432c3c7-1c46-424c-572a-05abf47ebe00",
+                "back": "18f6c250-e448-48d1-7fdd-53e980744d00",
+                "token": "2968070"
+            },
+            "Xinyu": {
+                "key": "Xinyu-C206Z",
+                "front": "d5ac775f-586a-47a4-c981-79f338bf0d00",
+                "back": "d97828c7-a5d3-425a-e968-6c4982a01c00",
+                "token": "2971306"
+            },
+            "Mayu": {
+                "key": "Mayu-C206Z",
+                "front": "911c1d07-ca91-45b5-08a5-6ec4a0cc2500",
+                "back": "2071e8d2-c5f4-4caf-1fdd-f0af060eb400",
+                "token": "2975141"
+            },
+            "Lynn": {
+                "key": "Lynn-C206Z",
+                "front": "c4496eab-2604-4a6f-7719-1ad12173a600",
+                "back": "9e0f60f2-0db8-42ca-8b4f-344540fbc800",
+                "token": "2982994"
+            },
+            "JooBin": {
+                "key": "JooBin-C206Z",
+                "front": "497b792f-f956-4298-091e-3dff759d9f00",
+                "back": "6baab164-c90f-43c4-ce6b-47d53f237500",
+                "token": "2985058"
+            },
+            "HaYeon": {
+                "key": "HaYeon-C206Z",
+                "front": "4bfdc756-1b3b-473b-1a70-593336d8c000",
+                "back": "7393c213-faf7-468d-9877-65653d8ef600",
+                "token": "2986779"
+            },
+            "ShiOn": {
+                "key": "ShiOn-C206Z",
+                "front": "06aa4b48-83b8-46a7-8b58-b8317700d200",
+                "back": "a27c8cc6-9eda-49e2-abeb-20b05e46a200",
+                "token": "2988681"
+            }
+        },
         "207A": {
             "bgColor": "#F7F7F7",
             "textColor": "#000000",
+            "method": "ACCESS 앨범 A ver. 구성품",
             "JiWoo": {
                 "key": "JiWoo-C207A",
                 "front": "b03cfb49-ad6f-4452-914a-ef061f741200",
@@ -16076,6 +16368,7 @@
         "208A": {
             "bgColor": "#F7F7F7",
             "textColor": "#000000",
+            "method": "⟡ 앨범 B ver. 구성품",
             "JiWoo": {
                 "key": "JiWoo-C208A",
                 "front": "2428be1d-0e99-425c-1c13-954ab0259d00",
@@ -16128,6 +16421,7 @@
         "301Z": {
             "bgColor": "#39C3DB",
             "textColor": "#FFFFFF",
+            "method": "⟡ 앨범 쇼케이스(MyMusicTaste) 응모 보상",
             "JiWoo": {
                 "key": "JiWoo-C301Z",
                 "front": "f7c5f0d2-2115-4414-5a53-03c0a9f18e00",
@@ -16180,6 +16474,7 @@
         "302Z": {
             "bgColor": "#F4B94E",
             "textColor": "#2BA8A2",
+            "method": "⟡ 앨범 예약판매(Dear My Muse) 특전",
             "JiWoo": {
                 "key": "JiWoo-C302Z",
                 "front": "d45e8b93-882c-42f2-4be7-4be0bf2cd200",
@@ -16232,6 +16527,7 @@
         "303Z": {
             "bgColor": "#000000",
             "textColor": "#FFFFFF",
+            "method": "Acid Angel from Asia 1주년 기념일에 구매",
             "HyeRin": {
                 "key": "HyeRin-C303Z",
                 "front": "28b46c62-7198-4d90-034d-4f87034f1700",
@@ -16258,6 +16554,7 @@
             }
         },
         "304Z": {
+            "method": "ↀ 앨범 활동 기념 오브젝트로 판매 (나중에 추가 작업)",
             "SeoYeon": {
                 "key": "SeoYeon-C304Z",
                 "bgColor": "#E62473",
@@ -16388,6 +16685,7 @@
             }
         },
         "305Z": {
+            "method": "ↀ 앨범 활동 기념 오브젝트로 판매 (나중에 추가 작업)",
             "SeoYeon": {
                 "key": "SeoYeon-C305Z",
                 "bgColor": "#E62473",
@@ -16518,6 +16816,7 @@
             }
         },
         "306Z": {
+            "method": "입주 1주년 기념일에 구매",
             "Kaede": {
                 "key": "Kaede-C306Z",
                 "bgColor": "#FFC935",
@@ -16560,6 +16859,7 @@
             }
         },
         "307Z": {
+            "method": "입주 1주년 기념일에 구매",
             "Kaede": {
                 "key": "Kaede-C307Z",
                 "bgColor": "#FFC935",
@@ -16604,6 +16904,7 @@
         "308Z": {
             "bgColor": "#BF4239",
             "textColor": "#FFFFFF",
+            "method": "[Authentic] EVOLution in Australia 콘서트 참석 보상",
             "JiWoo": {
                 "key": "JiWoo-C308Z",
                 "front": "70c7d8e1-dd6e-409f-3829-28f07cceab00",
@@ -16656,6 +16957,7 @@
         "309A": {
             "bgColor": "#BF4239",
             "textColor": "#FFFFFF",
+            "method": "[Authentic] EVOLution in Australia 콘서트에서 구매",
             "JiWoo": {
                 "key": "JiWoo-C309A",
                 "front": "86455e50-18a8-4efd-1ed5-9508f29e4200",
@@ -16708,6 +17010,7 @@
         "310Z": {
             "bgColor": "#EED056",
             "textColor": "#000000",
+            "method": "2023 MAMA AWARDS 신인상 수상일에 역대 Gravity 참여 횟수에 비례하여 지급",
             "SeoYeon": {
                 "key": "SeoYeon-C310Z",
                 "front": "48409d10-5988-4264-9d26-8d60d27d8300",
@@ -16808,6 +17111,7 @@
         "311Z": {
             "bgColor": "#C8161D",
             "textColor": "#FFFFFF",
+            "method": "2023년 크리스마스 기간에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C311Z",
                 "front": "d19b633d-347a-4bd5-e9e7-18f5d0c06e00",
@@ -16932,6 +17236,7 @@
         "312Z": {
             "bgColor": "#C8161D",
             "textColor": "#FFFFFF",
+            "method": "2023년 크리스마스 기간에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C312Z",
                 "front": "c67e267b-60a4-4d8c-a451-b0c6ce98c700",
@@ -17056,6 +17361,7 @@
         "313Z": {
             "bgColor": "#C8161D",
             "textColor": "#FFFFFF",
+            "method": "2023년 크리스마스 기간에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C313Z",
                 "front": "66609a2c-e808-4ca8-de5c-824cac6caa00",
@@ -17178,6 +17484,7 @@
             }
         },
         "314A": {
+            "method": "LOVE EVOLution 시즌그리팅 LOVElution ver. 구성품 (추가 작업)",
             "SeoYeon": {
                 "key": "SeoYeon-C314A",
                 "bgColor": "#FFF8EE",
@@ -17310,6 +17617,7 @@
         "315Z": {
             "bgColor": "#294a80",
             "textColor": "#ffffff",
+            "method": "배지 전쟁 이벤트 당첨 보상 또는 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C315Z",
                 "front": "bb2ba6b0-6743-45b7-3f73-91e8571d0b00",
@@ -17410,6 +17718,7 @@
         "316Z": {
             "bgColor": "#C8A2C8",
             "textColor": "#FFFFFF",
+            "method": "Structure of Sadness 앨범 활동 기념 오브젝트로 판매",
             "JiWoo": {
                 "key": "JiWoo-C316Z",
                 "front": "abaa6aa2-b6cc-440f-5352-13c9e0799900",
@@ -17444,6 +17753,7 @@
         "317Z": {
             "bgColor": "#C8A2C8",
             "textColor": "#FFFFFF",
+            "method": "Structure of Sadness 앨범 활동 기념 오브젝트로 판매",
             "JiWoo": {
                 "key": "JiWoo-C317Z",
                 "front": "598842e1-b600-492c-9b2d-6a359782a500",
@@ -17478,6 +17788,7 @@
         "318Z": {
             "bgColor": "#7282B9",
             "textColor": "#FFFFFF",
+            "method": "Winter Meet Up with tripleS 행사 참석 보상",
             "SeoYeon": {
                 "key": "SeoYeon-C318Z",
                 "front": "255554c6-4bcf-4bfa-9742-b67f98474800",
@@ -17578,6 +17889,7 @@
         "319Z": {
             "bgColor": "#C5D4FF",
             "textColor": "#462EA4",
+            "method": "Authentic in Seoul 콘서트 참석 보상",
             "SeoYeon": {
                 "key": "SeoYeon-C319Z",
                 "front": "c8505861-bff8-4a08-5240-383417ab4700",
@@ -17702,6 +18014,7 @@
         "320Z": {
             "bgColor": "#F9F8F2",
             "textColor": "#07328D",
+            "method": "ASSEMBLE 앨범 1주년 기념일에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C320Z",
                 "front": "988f51bf-3793-43d0-db2c-b6aeb3853000",
@@ -17766,6 +18079,7 @@
         "321Z": {
             "bgColor": "#F9F8F2",
             "textColor": "#07328D",
+            "method": "ASSEMBLE 앨범 1주년 기념일에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C321Z",
                 "front": "78127dea-df12-4427-7402-42c10305af00",
@@ -17830,6 +18144,7 @@
         "322Z": {
             "bgColor": "#6B4633",
             "textColor": "#FFFFFF",
+            "method": "2024년 발렌타인데이 기간에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C322Z",
                 "front": "e8d3c8ee-dc36-4c04-134a-52bd2310ef00",
@@ -17954,6 +18269,7 @@
         "323Z": {
             "bgColor": "#6B4633",
             "textColor": "#FFFFFF",
+            "method": "2024년 발렌타인데이 기간에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C323Z",
                 "front": "83314d9f-2c53-438e-3db0-0f6641fab700",
@@ -18078,6 +18394,7 @@
         "324Z": {
             "bgColor": "#121212",
             "textColor": "#CA9739",
+            "method": "ASSEMBLE24 Title Track Gravity 참여 보상",
             "Assemble24": {
                 "key": "Assemble24-C324Z",
                 "front": "2ed4729d-7c9f-421f-ba1b-ef7d288b8b00",
@@ -18088,6 +18405,7 @@
         "325Z": {
             "bgColor": "#DEFAE9",
             "textColor": "#000000",
+            "method": "S21 ~ S24 공개 전 구매",
             "S21": {
                 "key": "S21-C325Z",
                 "front": "92214f89-eee6-4be2-3025-4d7896cb2800",
@@ -18116,6 +18434,7 @@
         "326Z": {
             "bgColor": "#F8E6FF",
             "textColor": "#E24BAC",
+            "method": "벚꽃 오브젝트",
             "SeoYeon": {
                 "key": "SeoYeon-C326Z",
                 "front": "4ae0e448-1532-467c-3e0f-962011634800",
@@ -18264,6 +18583,7 @@
         "327Z": {
             "bgColor": "#F8E6FF",
             "textColor": "#E24BAC",
+            "method": "2024년 봄에 구매",
             "SeoYeon": {
                 "key": "SeoYeon-C327Z",
                 "front": "ccb37ec3-6db8-4b03-0132-173626761100",
@@ -18412,6 +18732,7 @@
         "328Z": {
             "bgColor": "#DEFAE9",
             "textColor": "#000000",
+            "method": "C325Z를 보유 중일 경우 지급",
             "ChaeWon": {
                 "key": "ChaeWon-C328Z",
                 "front": "8dea1b50-4c68-4246-e012-0a4573825500",
@@ -18436,6 +18757,13 @@
                 "back": "1e1fe4a6-7f32-4017-638b-9fbb7941f100",
                 "token": "2862325"
             }
+        },
+        "329Z": {
+            "bgColor": "#000",
+            "textColor": "#fff",
+            "method": "입주 2주년 기념일에 구매",
+            "SeoYeon": {},
+            "HyeRin": {}
         }
     }
 }
